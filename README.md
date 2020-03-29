@@ -13,3 +13,5 @@ learn-springboot-reactive-stack
 * [Build RESTful APIs using SpringBoot/WebFlux](https://www.youtube.com/watch?v=IK26KdGRl48&list=PLnXn1AViWyL70R5GuXt_nIDZytYBnvBdd&index=1)
 * [Reactive Programming using Spring WebFlux](https://medium.com/faun/reactive-programming-using-spring-webflux-ad3cfc6f0471)
 * [5 common mistakes of Webflux novices](https://medium.com/@nikeshshetty/5-common-mistakes-of-webflux-novices-f8eda0cd6291)
+* [Create a RESTful Reactive CRUD Application using Spring Boot & MongoDB.](https://blog.clairvoyantsoft.com/reactive-crud-apis-with-spring-webflux-88509634daa)
+
